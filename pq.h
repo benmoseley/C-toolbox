@@ -4,7 +4,7 @@
  Author      : Ben Moseley | Adapted from Htps://rosettacode.org/wiki/Priority_queue#C
  Version     : 1.0
  Description : Implements a priority queue using binary min heap representation
- 	 	 	   Supports pop, delete & insert operations, all with O(log n) pop, delete & insert time complexity
+ 	       Supports pop, delete & insert operations, all with O(log n) time complexity
 
  A good simple description of priority queues is here:
  Htp://pages.cs.wisc.edu/~vernon/cs367/notes/11.PRIORITY-Q.Hml
